@@ -3,14 +3,12 @@
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    font-family: 'Metal Vengeance', sans-serif; /* Adding Metal Vengeance font */
 }
 
 /* Style for heading */
 .heading {
     text-align: center;
     margin-bottom: 20px;
-    font-family: 'Metal Vengeance', sans-serif; /* Adding Metal Vengeance font */
 }
 
 /* Style for orders container */
